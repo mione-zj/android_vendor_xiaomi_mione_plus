@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
+  vendor/xiaomi/mione_plus/proprietary/lib/libaudioparsers.so:system/lib/libaudioparsers.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libdiag.so:system/lib/libdiag.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libv8.so:system/lib/libv8.so \
@@ -60,6 +61,8 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/libnv.so:system/lib/libnv.so \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/bcm4329.hcd:system/etc/firmware/bcm4329.hcd \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/bcm4330.hcd:system/etc/firmware/bcm4330.hcd \
+  vendor/xiaomi/mione_plus/proprietary/etc/init.qcom.coex.sh:system/etc/init.qcom.coex.sh \
+  vendor/xiaomi/mione_plus/proprietary/etc/init.qcom.mdm_links.sh:system/etc/init.qcom.mdm_links.sh \
   vendor/xiaomi/mione_plus/proprietary/etc/init.qcom.modem_links.sh:system/etc/init.qcom.modem_links.sh \
   vendor/xiaomi/mione_plus/proprietary/etc/init.qcom.post_fs.sh:system/etc/init.qcom.post_fs.sh \
   vendor/xiaomi/mione_plus/proprietary/lib/libdsm.so:system/lib/libdsm.so \
