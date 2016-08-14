@@ -41,6 +41,9 @@ PRODUCT_COPY_FILES += \
   vendor/xiaomi/mione_plus/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/xiaomi/mione_plus/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
+  vendor/xiaomi/mione_plus/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
+  vendor/xiaomi/mione_plus/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
+  vendor/xiaomi/mione_plus/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
   vendor/xiaomi/mione_plus/proprietary/etc/firmware/dsps_fluid.mdt:system/etc/firmware/dsps_fluid.mdt \
